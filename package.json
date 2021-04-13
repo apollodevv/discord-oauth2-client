@@ -1,6 +1,6 @@
 {
   "name": "discord-oauth2-client",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Passport strategy for authentication with Discord",
   "main": "src/index.js",
   "scripts": {
